@@ -17,7 +17,17 @@ ModelImporter:
     3300002: group_0_6383466
     4300000: group_0_16311991
     4300002: group_0_6383466
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: color_16311991
+    second: {fileID: 2100000, guid: 0d85f9cc890be6747acd41d1818c1bd5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: color_6383466
+    second: {fileID: 2100000, guid: 1fb7379f27a6b534bae64e121ab08581, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
